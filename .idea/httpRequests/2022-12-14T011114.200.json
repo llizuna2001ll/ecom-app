@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "name": "Zaynab",
+  "email": "wahoubzaynab@gmail.com",
+  "_links": {
+    "self": {
+      "href": "http://localhost:8081/customers/2"
+    },
+    "customer": {
+      "href": "http://localhost:8081/customers/2{?projection}",
+      "templated": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "Issam",
+  "email": "issam.fladi@gmail.com",
+  "_links": {
+    "self": {
+      "href": "http://localhost:8081/customers/1"
+    },
+    "customer": {
+      "href": "http://localhost:8081/customers/1{?projection}",
+      "templated": true
+    }
+  }
+}

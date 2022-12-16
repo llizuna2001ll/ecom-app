@@ -1,0 +1,26 @@
+GET http://localhost:8081/customers/2
+Accept: application/json
+
+<> 2022-12-14T011114.200.json
+
+###
+
+GET http://localhost:8081/customers/1
+Accept: application/json
+
+<> 2022-12-14T011101.200.json
+
+###
+
+GET http://localhost:8081/customers
+Accept: application/json
+
+<> 2022-12-14T011045.200.json
+
+###
+
+GET http://localhost:8081/clients/
+Accept: application/json
+
+###
+
