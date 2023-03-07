@@ -1,4 +1,4 @@
-<h1>Activité Pratique N° 4 (Etat d'avancement)</h1>
+<h1>Activité Pratique N° 4 </h1>
 
 <h3>Client Service</h3>
 <img src="/images/customer-db.png">	
